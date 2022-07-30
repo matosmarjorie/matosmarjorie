@@ -1,5 +1,5 @@
 <h3>
-  Sou uma ex-mecânica, a uma cadeira de ser ex-aluna de arquitetura e agora curiando sobre o mundo de programação (e estou amando muito mais que todas as experiências anteriores ❤
+  Sou uma ex-mecânica, a uma cadeira de ser ex-aluna de arquitetura e agora curiando sobre o mundo de programação (e estou amando muito mais que todas as experiências anteriores ❤)
 </h3>
 
 <div  style="margin: 40px;">
