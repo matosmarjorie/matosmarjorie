@@ -2,10 +2,10 @@
   Sou uma ex-mecânica, a uma cadeira de ser ex-aluna de arquitetura e agora curiando sobre o mundo de programação (e estou amando muito mais que todas as experiências anteriores ❤
 </h3>
 
-<div align="center">
+<div>
   <a href="https://github.com/rafaballerini">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=matosmarjorie&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
- <!-- <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matosmarjorie&layout=compact&langs_count=7&theme=gruvbox_light"/> -->
+  <img  width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=matosmarjorie&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+<img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matosmarjorie&layout=compact&langs_count=7&theme=monokai"/>
 </div>
   
 <h3 align="center">
